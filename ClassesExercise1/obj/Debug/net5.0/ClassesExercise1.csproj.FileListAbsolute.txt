@@ -1,0 +1,16 @@
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\bin\Debug\net5.0\ClassesExercise1.exe
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\bin\Debug\net5.0\ClassesExercise1.deps.json
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\bin\Debug\net5.0\ClassesExercise1.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\bin\Debug\net5.0\ClassesExercise1.runtimeconfig.dev.json
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\bin\Debug\net5.0\ClassesExercise1.dll
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\bin\Debug\net5.0\ref\ClassesExercise1.dll
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\bin\Debug\net5.0\ClassesExercise1.pdb
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.dll
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ref\ClassesExercise1.dll
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.pdb
+C:\Users\mcwat\Desktop\Repos\ClassesExercise1\ClassesExercise1\obj\Debug\net5.0\ClassesExercise1.genruntimeconfig.cache
